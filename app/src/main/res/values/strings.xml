@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DbExecutorDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="export_db">导出数据库</string>
+    <string name="insert_db">插入数据库</string>
+</resources>
